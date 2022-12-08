@@ -2,7 +2,7 @@ name: Build and Test Java Gradle
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   my_first_job:
